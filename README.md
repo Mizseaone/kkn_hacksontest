@@ -1,0 +1,2 @@
+# kkn_hacksontest
+RareTECHハッカソン入門コースに参加するためのテスト用
