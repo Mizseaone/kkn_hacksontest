@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## kkn_hacksontest
 
 ### RareTECHハッカソン入門コースに参加するためのテスト用ページです。
@@ -8,3 +9,8 @@
 
 
 
+=======
+# kkn_hacksontest
+RareTECHハッカソン入門コースに参加するためのテスト用  
+[録画した動画]: https://www.loom.com/share/78f8a448ad8543a78941484aecc8c261?sid=e88e8047-bda3-4eb5-811c-98e502a15059
+>>>>>>> 25784d503e1dce23f2785967a4d40023a9eb3253
